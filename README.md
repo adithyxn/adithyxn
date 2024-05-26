@@ -1,6 +1,8 @@
 [![MasterHead]("E:\Aadi\DC\prog1.gif")](https://adithyxn.io)
 <h1 align="center">Hi 👋, I'm Adithyan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Btech(HONS) CSE IOT & Intelligent Systems student at Manipal University Jaipur,India</h3>
+<h3 align="center">A Passionate coder & frontend developer</h3>
+ 
 <img align="right" alt="Coding" width="400" src="E:\Aadi\DC\prog2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyxn&label=Profile%20views&color=0e75b6&style=flat" alt="adithyxn" /> </p>
